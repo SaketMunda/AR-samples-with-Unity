@@ -8,3 +8,11 @@ This repository contains sample projects using concepts of [ARFoundation](https:
 - [ ] Plane Detection
 - [ ] Object Tracking
 - [ ] Face Tracking
+
+
+> To begin with if the Unity can't able to identify the packages then add manually in manifest.json file
+
+```
+"com.unity.xr.arfoundation": "4.2.3",
+"com.unity.xr.arkit": "4.2.3"
+```
