@@ -5,7 +5,7 @@ This repository contains sample projects using concepts of [ARFoundation](https:
 ### Samples demonstrates AR Subsystems interfaces,
 
 - [X] [2D Image Tracking](https://github.com/SaketMunda/AR-samples-with-Unity/tree/master/ImageTracking) :---------> [Tutorial](https://5aket.hashnode.dev/ar-image-tracking)
-- [X] [Plane Detection & Placing Object](https://github.com/SaketMunda/AR-samples-with-Unity/tree/master/Plane%20Detection%20and%20Placing%20an%20Object) :---------> Tutorial
+- [X] [Plane Detection & Placing Object](https://github.com/SaketMunda/AR-samples-with-Unity/tree/master/Plane%20Detection%20and%20Placing%20an%20Object) :---------> [Tutorial](https://5aket.hashnode.dev/augmentedreality-planedetection)
 - [ ] Object Tracking
 - [ ] Face Tracking
 
